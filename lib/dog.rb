@@ -8,5 +8,5 @@ end
   
 fido= Dog.new("Fido")
 snoopy= Dog.new("Snoopy")
-lassie= Dog.new("assie")
+lassie= Dog.new("Lassie")
   
